@@ -1,0 +1,7 @@
+# snippets from Ultisnips are available
+
+# vim temperory files
+*~
+*.un~
+*.swp
+
